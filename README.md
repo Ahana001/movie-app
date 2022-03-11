@@ -1,3 +1,10 @@
+# React Movie Cards
+
+A basic application that displays a list of movies as a list of cards. Each card provides movie detail such as title, episode, year and image.
+
+# Preview
+![movie card app](https://user-images.githubusercontent.com/50478681/157853277-cac93996-a8b9-4ece-b6be-2172e5ea4dc5.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
